@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Emanuele Pippa
 
-🎓 Final-year Computer Science student at the Free University of Bozen-Bolzano (unibz), looking for a curricular internship with the possibility of writing my bachelor thesis in collaboration with the host company.
+Final-year Computer Science student at the Free University of Bozen-Bolzano (unibz), looking for a curricular internship with the possibility of writing my bachelor thesis in collaboration with the host company.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 [**Library Management System**](https://github.com/epippa/library-management)  
 Java application for managing a municipal library (books, users, loans) with PostgreSQL and Maven.
