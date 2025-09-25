@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emanuele Pippa
 
-Final-year Computer Science bachelor student at the Free University of Bozen-Bolzano (unibz), looking for a curricular internship with the possibility of writing my bachelor thesis in collaboration with the host company.
+Final-year Computer Science bachelor student at the Free University of Bozen-Bolzano (unibz), looking for an internship.
 
 ---
 
